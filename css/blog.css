@@ -1,0 +1,27 @@
+nav{
+    background-color: rgb(79, 89, 97);
+    
+}
+#blog-container {
+    margin-top: 14px;
+}
+.card {
+    margin-top: 15px;
+    border-radius: 30px;
+   
+}
+
+#image-slider {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.card{
+    background-color: #a9acac34;
+}
+
+.footer {
+    background-color: #c4f5f6d5;
+    margin: 10px 0px 0px 0px;
+    padding: 20px 0px; 
+}
+  
